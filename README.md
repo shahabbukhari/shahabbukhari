@@ -9,7 +9,7 @@
 
 👾: I am ML & AI enthusiast
 
-📊: currently I am  learning Data Science.
+<!-- 📊: currently, Learning Full Stack . -->
 
 🛸: I love exploring new tech stack and building cool stuffs.
 
