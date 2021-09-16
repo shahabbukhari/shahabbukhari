@@ -10,7 +10,6 @@
 👾:  I find my technical interests in Problem Solving, Full-stack development, Machine Learning and open source!.
 
 🛠: I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons.
-fountain_pen I am an artist and I love everything that is drawn by hand or digitally !
 
 🛸: I love exploring new tech stack and building cool stuffs.
 
