@@ -7,22 +7,20 @@
 
 👨‍💻: I am passionate self-taught Computer science student from Pakistan.🇵🇰
 
-👾: I am ML & AI enthusiast
+👾:  I find my technical interests in Problem Solving, Full-stack development, Machine Learning and open source!.
 
-<!-- 📊: currently, Learning Full Stack . -->
+🛠: I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons.
+fountain_pen I am an artist and I love everything that is drawn by hand or digitally !
 
 🛸: I love exploring new tech stack and building cool stuffs.
 
-👱⚡️: I love attending Hackathons, meetups & tech events.
-
-📷: I like photography, love capturing movements.🎴
+📷: Also I Amateur Photographer, love capturing beautifull movements.🎴
 
 
 
 ## 💌 How to reach me:
 👉 : shahabbukhari098@gmail.com
 
-👉 : syedshahabshaa@gmail.com
 
 
 
