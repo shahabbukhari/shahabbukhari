@@ -1,4 +1,4 @@
-<h1> Hi There, I am Shahab .<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"></h1>
+<h1> Hi There, I am Shahab. 👋</h1>
 
 <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500px">
 
